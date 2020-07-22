@@ -9,6 +9,12 @@ My name is Rafael Gallo, computer engineering student.
 
 
 ### My skills:<br/>
+
+![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![R](https://img.shields.io/badge/-R-ff961f?style=flat&logoColor=red&logo=R) 
+![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
+![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=red&logo=java) ![SQL](https://img.shields.io/badge/-SQL-ff961f?style=flat&logoColor=white&logo=SQL) 
+![NoSQL](https://img.shields.io/badge/-NoSQL-ff961f?style=flat&logoColor=white&logo=NoSQL) ![MongoDB](https://img.shields.io/badge/-MongoDB-ff961f style=flat&logoColor=green&logo=MongoDB) ![SAS](https://img.shields.io/badge/-SAS-ff961f?style=flat&logoColor=black&logo=SAS) ![Azure](https://img.shields.io/badge/-Azure-ff961f?style=flat&logoColor=blue&logo=Azure)
+
 💻 Machine learning: data mining, machine learning models - classification, statistical models, model validation, optimization of models through hyperparameters, optimization with random exploration, recommendation systems, supervised algorithms, unsupervised algorithms, natural language model, linear regression, logistic regression.
 
 💻 Data analysis: Pandas, numpy, seaborn, ployt, matplotlib.
