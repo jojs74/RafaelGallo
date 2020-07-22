@@ -27,4 +27,4 @@ My name is Rafael Gallo, computer engineering student.
 ![NoSQL](https://img.shields.io/badge/-NoSQL-ff961f?style=flat&logoColor=white&logo=NoSQL) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff961f?style=flat&logoColor=green&logo=MongoDB)
 ![SAS](https://img.shields.io/badge/-SAS-ff961f?style=flat&logoColor=black&logo=SAS)
-![Azure machine learning](https://img.shields.io/badge/-Azure machine learning-ff961f?style=flat&logoColor=blue&logo=Azure machine learning)
+![Azure](https://img.shields.io/badge/-Azure-ff961f?style=flat&logoColor=blue&logo=Azure)
