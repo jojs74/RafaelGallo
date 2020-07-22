@@ -20,4 +20,6 @@ My name is Rafael Gallo, computer engineering student.
 
 ### ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
 ### ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java)  
-### ![SQL](https://img.shields.io/badge/-SQL-ff961f?style=flat&logoColor=white&logo=SQL) 
+### ![SQL](https://img.shields.io/badge/-SQL-ff961f?style=flat&logoColor=white&logo=SQL)
+### ![NoSQL](https://img.shields.io/badge/-NoSQL-ff961f?style=flat&logoColor=white&logo=NoSQL)
+### ![MongoDB](https://img.shields.io/badge/-MongoDB-ff961f?style=flat&logoColor=white&logo=MongoDB) 
