@@ -16,6 +16,8 @@ My name is Rafael Gallo, computer engineering student.
 
 💻 Data analysis: Pandas, numpy, seaborn, ployt, matplotlib.
 
+💻 Time-series: model AR, ARMA, ARIMA, SARIMA.
+
 💻 Statistic: frequencies and averages, probability, sampling, hypotheses, correlations, market basket analysis, linear regression.
 
 
