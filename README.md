@@ -8,7 +8,7 @@ My name is Rafael Gallo, computer engineering student.
 - 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 
 
-### My skills: <br/> <br/> 
+### My skills:<br/>
 💻 Machine learning: data mining, machine learning models - classification, statistical models, model validation, optimization of models through hyperparameters, optimization with random exploration, recommendation systems, supervised algorithms, unsupervised algorithms, natural language model, linear regression, logistic regression.
 
 💻 Data analysis: Pandas, numpy, seaborn, ployt, matplotlib.
@@ -20,3 +20,4 @@ My name is Rafael Gallo, computer engineering student.
 
 ### ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
 ### ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java)  
+### ![SQL](https://img.shields.io/badge/-SQL-ff961f?style=flat&logoColor=white&logo=SQL) 
