@@ -16,7 +16,7 @@ My name is Rafael Gallo, computer engineering student.
 ![NoSQL](https://img.shields.io/badge/-NoSQL-ff961f?style=flat&logoColor=white&logo=NoSQL) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff961fstyle=flat&logoColor=green&logo=MongoDB) 
 ![SAS](https://img.shields.io/badge/-SAS-ff961f?style=flat&logoColor=black&logo=SAS) ![Azure](https://img.shields.io/badge/-Azure-ff961f?style=flat&logoColor=blue&logo=Azure)
-![Power bi](https://img.shields.io/badge/-Power bi-ff961f?style=flat&logoColor=black&logo=Power bi)
+
 
 💻 Machine learning: data mining, machine learning models - classification, statistical models, model validation, optimization of models through hyperparameters, optimization with random exploration, recommendation systems, supervised algorithms, unsupervised algorithms, natural language model, linear regression, logistic regression.
 
