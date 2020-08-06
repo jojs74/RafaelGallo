@@ -9,8 +9,8 @@ My name is Rafael Gallo, computer engineering student.
 
 
 ### My skills:<br/>
-
-![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![R](https://img.shields.io/badge/-R-ff961f?style=flat&logoColor=red&logo=R) 
+![C++](https://img.shields.io/badge/-C++-0077B5?style=flat&logoColor=white&logo=python) ![C++](https://img.shields.io/badge/-R-ff961f?style=flat&logoColor=red&logo=C++)
+![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![Python](https://img.shields.io/badge/-R-ff961f?style=flat&logoColor=red&logo=Python) 
 ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=red&logo=java) ![SQL](https://img.shields.io/badge/-SQL-ff961f?style=flat&logoColor=white&logo=SQL) 
 ![NoSQL](https://img.shields.io/badge/-NoSQL-ff961f?style=flat&logoColor=white&logo=NoSQL) 
