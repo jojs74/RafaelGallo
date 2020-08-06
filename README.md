@@ -9,7 +9,6 @@ My name is Rafael Gallo, computer engineering student.
 
 
 ### My skills:<br/>
-![C](https://img.shields.io/badge/-C-0077B5?style=flat&logoColor=white&logo=C) 
 ![C++](https://img.shields.io/badge/-C++-0077B5?style=flat&logoColor=white&logo=C++) 
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
 ![R](https://img.shields.io/badge/-R-0077B5?style=flat&logoColor=white&logo=R) 
@@ -19,7 +18,9 @@ My name is Rafael Gallo, computer engineering student.
 ![SQL](https://img.shields.io/badge/-SQL-ff961f?style=flat&logoColor=white&logo=SQL) 
 ![NoSQL](https://img.shields.io/badge/-NoSQL-ff961f?style=flat&logoColor=white&logo=NoSQL) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff961fstyle=flat&logoColor=green&logo=MongoDB) 
-![SAS](https://img.shields.io/badge/-SAS-ff961f?style=flat&logoColor=black&logo=SAS) ![Azure](https://img.shields.io/badge/-Azure-ff961f?style=flat&logoColor=blue&logo=Azure)
+![Power Bi](https://img.shields.io/badge/-Power Bi-ff961f?style=flat&logoColor=blue&logo=Power Bi)
+![SAS](https://img.shields.io/badge/-SAS-ff961f?style=flat&logoColor=black&logo=SAS) 
+![Azure](https://img.shields.io/badge/-Azure-ff961f?style=flat&logoColor=blue&logo=Azure)
 
 
 💻 Machine learning: data mining, machine learning models - classification, statistical models, model validation, optimization of models through hyperparameters, optimization with random exploration, recommendation systems, supervised algorithms, unsupervised algorithms, natural language model, linear regression, logistic regression.
