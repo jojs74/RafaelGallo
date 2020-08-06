@@ -19,6 +19,7 @@ My name is Rafael Gallo, computer engineering student.
 ![NoSQL](https://img.shields.io/badge/-NoSQL-ff961f?style=flat&logoColor=white&logo=NoSQL) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff961fstyle=flat&logoColor=green&logo=MongoDB) 
 ![PowerBi](https://img.shields.io/badge/-PowerBi-ff961f?style=flat&logoColor=yellow&logo=PowerBi)
+![GoogleDataStudio](https://img.shields.io/badge/-GoogleDataStudio-ff961f?style=flat&logoColor=yellow&logo=GoogleDataStudio)
 ![SAS](https://img.shields.io/badge/-SAS-ff961f?style=flat&logoColor=black&logo=SAS) 
 ![Azure](https://img.shields.io/badge/-Azure-ff961f?style=flat&logoColor=blue&logo=Azure)
 ![IBMCloud](https://img.shields.io/badge/-IBMCloud-ff961f?style=flat&logoColor=blue&logo=IBMCloud)
