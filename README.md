@@ -9,6 +9,7 @@ My name is Rafael Gallo, computer engineering student.
 
 
 ### My skills:<br/>
+![C](https://img.shields.io/badge/-C-0077B5?style=flat&logoColor=white&logo=C) 
 ![C++](https://img.shields.io/badge/-C++-0077B5?style=flat&logoColor=white&logo=C++) 
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
 ![R](https://img.shields.io/badge/-R-0077B5?style=flat&logoColor=white&logo=R) 
