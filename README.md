@@ -21,7 +21,7 @@ My name is Rafael Gallo, computer engineering student.
 ![PowerBi](https://img.shields.io/badge/-PowerBi-ff961f?style=flat&logoColor=yellow&logo=PowerBi)
 ![SAS](https://img.shields.io/badge/-SAS-ff961f?style=flat&logoColor=black&logo=SAS) 
 ![Azure](https://img.shields.io/badge/-Azure-ff961f?style=flat&logoColor=blue&logo=Azure)
-![IBM-Cloud](https://img.shields.io/badge/-IBM-Cloud-ff961f?style=flat&logoColor=blue&logo=IBM-Cloud)
+![IBMCloud](https://img.shields.io/badge/-IBMCloud-ff961f?style=flat&logoColor=blue&logo=IBMCloud)
 
 
 💻 Machine learning: data mining, machine learning models - classification, statistical models, model validation, optimization of models through hyperparameters, optimization with random exploration, recommendation systems, supervised algorithms, unsupervised algorithms, natural language model, linear regression, logistic regression.
