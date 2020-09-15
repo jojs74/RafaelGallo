@@ -32,3 +32,6 @@ My name is Rafael Gallo, computer engineering student.
 💻 Time series analysis: model AR, ARMA, ARIMA, SARIMA.
 
 💻 Statistic: frequencies and averages, probability, sampling, hypotheses, correlations, market basket analysis, linear regression.
+
+
+<img src = https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403 />
