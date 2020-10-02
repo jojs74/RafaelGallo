@@ -6,15 +6,13 @@ My name is Rafael Gallo, computer engineering student.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gallorafael_/)
 [![Origin](https://img.shields.io/badge/-Origin-000?style=flat-square&logo=Origin&logoColor=Orange&link=https://www.origin.com/bra/pt-br/profile/achievements)](https://www.origin.com/bra/pt-br/profile/achievements)
-
-
+[![Steam](https://img.shields.io/badge/-Origin-000?style=flat-square&logo=Origin&logoColor=Midnightblue&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
 
 ### My skills:<br/>
-
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
