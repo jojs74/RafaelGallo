@@ -37,4 +37,4 @@ My name is Rafael Gallo, computer engineering student.
 💻 Statistic: frequencies and averages, probability, sampling, hypotheses, correlations, market basket analysis, linear regression.
 
 
-<img src height="35"= "https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif"/>
+<img src ="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif"/>
