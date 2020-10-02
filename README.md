@@ -2,6 +2,7 @@
 
 My name is Rafael Gallo, computer engineering student.
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelGallo)](https://github.com/RafaelGallo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gallorafael_/)
 - 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
@@ -9,13 +10,15 @@ My name is Rafael Gallo, computer engineering student.
 
 
 ### My skills:<br/>
-![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
-![R](https://img.shields.io/badge/-R-0077B5?style=flat&logoColor=white&logo=R) 
-![SQL](https://img.shields.io/badge/-SQL-ff961f?style=flat&logoColor=white&logo=SQL) 
-![NoSQL](https://img.shields.io/badge/-NoSQL-ff961f?style=flat&logoColor=white&logo=NoSQL) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-ff961fstyle=flat&logoColor=green&logo=MongoDB) 
-![PowerBi](https://img.shields.io/badge/-PowerBi-ff961f?style=flat&logoColor=yellow&logo=PowerBi)
-![IBMCloud](https://img.shields.io/badge/-IBMCloud-ff961f?style=flat&logoColor=blue&logo=IBMCloud)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Python/Python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R/R.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/SQL/SQL.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/NoSQL/NoSQL.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/MongoDB/MongoDB.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C/C.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Power b.i/Power b.i.png"></code>
 
 
 💻 Machine learning: data mining, machine learning models - classification, statistical models, model validation, optimization of models through hyperparameters, optimization with random exploration, recommendation systems, supervised algorithms, unsupervised algorithms, natural language model, linear regression, logistic regression.
