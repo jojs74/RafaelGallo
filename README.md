@@ -5,8 +5,7 @@ My name is Rafael Gallo, computer engineering student.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelGallo)](https://github.com/RafaelGallo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gallorafael_/)
-[![Origin](https://img.shields.io/badge/-Origin-ff0000?style=flat-square&labelColor=ff0000&logo=Origin&logoColor=white&link=https://www.origin.com/bra/pt-br/profile/achievements)](https://www.origin.com/bra/pt-br/profile/achievements)
-[![Steam](https://img.shields.io/badge/-Steam-ff0000?style=flat square&labelColor=ff0000&logo=Steam&logoColor=darkblue&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
+[![Origin](https://img.shields.io/badge/-Origin-ff0000?style=flat-square&labelColor=#ffa500logo=Origin&logoColor=white&link=https://www.origin.com/bra/pt-br/profile/achievements)](https://www.origin.com/bra/pt-br/profile/achievements)
 
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
