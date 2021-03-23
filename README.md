@@ -44,8 +44,16 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 ## Machine learning
 <img src="https://img.shields.io/badge/-Machine learning-181717?style=for-the-badge&logo=Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Regression model-181717?style=for-the-badge&logo=Regression_model" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-classification-181717?style=for-the-badge&logo=classification" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-statistical-181717?style=for-the-badge&logo=statistical" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Data analysis-181717?style=for-the-badge&logo=Data_analysis" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-recommendation systems-181717?style=for-the-badge&logo=recommendation_systems" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Supervised algorithms-181717?style=for-the-badge&logo=supervised_algorithms" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-unsupervised algorithms-181717?style=for-the-badge&logo=unsupervised_algorithms" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Supervised natural language model-181717?style=for-the-badge&logo=Supervised_natural_language_model" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Unnatural language process model-181717?style=for-the-badge&logo=Unnatural_language_process_model" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Time series-181717?style=for-the-badge&logo=Time_series" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 <br/>
