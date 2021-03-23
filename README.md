@@ -1,9 +1,7 @@
 # Rafael Henrique Gallo
 
-
 My name is Rafael Gallo, computer engineering student.
 
-<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
 <p align="middle">
 <a href="https://www.linkedin.com/in/rafael-gallo-986a73150/">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
