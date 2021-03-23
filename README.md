@@ -61,6 +61,10 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 <br/>
+<img src ="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif">
+<br/>
+<br/>
+<br/>
 ### Deep learning
 <img src="https://img.shields.io/badge/-ANN Artificial neural network-181717?style=for-the-badge&logo=ANN_Artificial_neural_network" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CNN Convolutional-181717?style=for-the-badge&logo=ANN_Convolutional" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,10 +79,3 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<img src ="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif">
