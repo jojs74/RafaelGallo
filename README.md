@@ -44,6 +44,8 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 ## Machine learning
 <img src="https://img.shields.io/badge/-Machine learning-181717?style=for-the-badge&logo=Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-classification-181717?style=for-the-badge&logo=classification" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-statistical-181717?style=for-the-badge&logo=statistical" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 <br/>
