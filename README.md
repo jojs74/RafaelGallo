@@ -33,7 +33,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C++" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=JavalogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,6 +44,7 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/-Azure-181717?style=for-the-badge&logo=Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Azure Machine learning-181717?style=for-the-badge&logo=Azure Machine learning" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 <br/>
