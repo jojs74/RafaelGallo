@@ -13,14 +13,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
-
-💻 Machine learning: data mining, machine learning models - classification, statistical models, model validation, optimization of models through hyperparameters, optimization with random exploration, recommendation systems, supervised algorithms, unsupervised algorithms, natural language model, linear regression, logistic regression.
-
-💻 Data analysis: Pandas, numpy, seaborn, ployt, matplotlib.
-
-💻 Time series analysis: model AR, ARMA, ARIMA, SARIMA.
-
-💻 Statistic: frequencies and averages, probability, sampling, hypotheses, correlations, market basket analysis, linear regression.
 <br/>
 <br/>
 ### My skills<br/>
