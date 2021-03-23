@@ -53,8 +53,8 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 
-### Framework Machine learning
-<img src="https://img.shields.io/badge/-Scikit-Learn-black?style=for-the-badge&logo=Scikit-Learn" />&nbsp;&nbsp;&nbsp;&nbsp;
+## Framework Machine learning
+<img src="https://img.shields.io/badge/-Scikit Learn-181717?style=for-the-badge&logo=Scikit_Learn" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Machine learning
 <img src="https://img.shields.io/badge/-Machine learning-181717?style=for-the-badge&logo=Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
