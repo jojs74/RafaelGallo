@@ -2,7 +2,6 @@
 
 My name is Rafael Gallo, computer engineering student.
 
-<p align="middle">
 <a href="https://www.linkedin.com/in/rafael-gallo-986a73150/">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
 <a href="mailto:rafaelhenriquegallo@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
