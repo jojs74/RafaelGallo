@@ -5,20 +5,13 @@ My name is Rafael Gallo, computer engineering student.
 <p align="middle">
 <a href="https://www.linkedin.com/in/rafael-gallo-986a73150/">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
 <a href="mailto:rafaelhenriquegallo@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
 <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
-</a>
 <a href="https://www.instagram.com/gallorafael_/">
 <img src="https://img.shields.io/badge/-Instagram-%230d8bf1?style=flat&logo=Instagram&logoColor=white">
-</a>
 <a href="https://www.origin.com/bra/pt-br/profile/achievements">
 <img src="https://img.shields.io/badge/-Origin-%23E4405F?style=flat&logo=Origin&logoColor=white">
-</a>
-</p>
-<div>
 <img align="right" alt="GIF" height="300px" src="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif"/>
-</div>
 
 <!-- <div>
 [<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
