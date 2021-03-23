@@ -12,47 +12,6 @@ My name is Rafael Gallo, computer engineering student.
 <img src="https://img.shields.io/badge/-Origin-%23E4405F?style=flat&logo=Origin&logoColor=white">
 <img align="right" alt="GIF" height="300px" src="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif"/>
 
-<!-- <div>
-[<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
-</div> -->
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<div>
-</a>
-</a>
-</div>
-
-<br />
-<br />
-<br />
-
-<div>
-</a>
-</div>
-
-<br />
-
-<div>
-<br />
-<br />
-<br />
-<br />
 <p align="center">
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
