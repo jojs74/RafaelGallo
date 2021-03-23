@@ -29,6 +29,6 @@ My name is Rafael Gallo, computer engineering student.
 <img src="https://img.shields.io/badge/-Azure-181717?style=for-the-badge&logo=Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-
+<br/>
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
