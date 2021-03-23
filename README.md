@@ -75,11 +75,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 <br/>
-<img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
-<img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
-<br/>
-<br/>
-<br/>
 <img src ="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif"/>
 <br/>
 <br/>
