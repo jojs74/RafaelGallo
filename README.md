@@ -28,6 +28,7 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 <br/>
+<br/>
 ### My skills<br/>
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
