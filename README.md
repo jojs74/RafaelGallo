@@ -1,7 +1,7 @@
 # Rafael Henrique Gallo
 My name is Rafael Gallo, computer engineering student.
 
-<p align="center">
+
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R&logoColor=007afb" />
@@ -12,11 +12,7 @@ My name is Rafael Gallo, computer engineering student.
   <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-</p>
+
 
 
 
