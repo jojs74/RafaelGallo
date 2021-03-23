@@ -66,6 +66,8 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-ANN Convolutional-181717?style=for-the-badge&logo=ANN_Convolutional" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-ANN Recurrent-181717?style=for-the-badge&logo=ANN_Recurrent" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-ANN Generative Adversarials-181717?style=for-the-badge&logo=ANN_Generative_Adversarials" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Autoencoders-181717?style=for-the-badge&logo=Autoencoders" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Computer vision-181717?style=for-the-badge&logo=Computer_Vision" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
