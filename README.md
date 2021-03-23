@@ -13,7 +13,8 @@ My name is Rafael Gallo, computer engineering student.
 <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/-Azure-181717?style=for-the-badge&logo=Azure" />
+<img src="https://img.shields.io/badge/-Azure-181717?style=for-the-badge&logo=Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
