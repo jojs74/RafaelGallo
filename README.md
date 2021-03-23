@@ -11,9 +11,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 <br/>
