@@ -1,13 +1,13 @@
 # Rafael Henrique Gallo
 My name is Rafael Gallo, computer engineering student.
 
-<a href="https://www.linkedin.com/in/rafael-gallo-986a73150/">
+<href="https://www.linkedin.com/in/rafael-gallo-986a73150/">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
-<a href="mailto:rafaelhenriquegallo@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
+<href="mailto:rafaelhenriquegallo@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
 <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
-<a href="https://www.instagram.com/gallorafael_/">
+<href="https://www.instagram.com/gallorafael_/">
 <img src="https://img.shields.io/badge/-Instagram-%230d8bf1?style=flat&logo=Instagram&logoColor=white">
-<a href="https://www.origin.com/bra/pt-br/profile/achievements">
+<href="https://www.origin.com/bra/pt-br/profile/achievements">
 <img src="https://img.shields.io/badge/-Origin-%23E4405F?style=flat&logo=Origin&logoColor=white">
 
 
