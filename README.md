@@ -10,9 +10,15 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
 <br/>
-
+<br/>
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
+<br/>
+<br/>
+<br/>
+<img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
+<img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
+<br/>
 <br/>
 <br/>
 ### My skills<br/>
