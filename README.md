@@ -38,7 +38,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 ### My skills<br/>
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C++" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=JavalogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,6 +60,7 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 ## Framework Machine learning and deep learning
 <img src="https://img.shields.io/badge/-Pandas-181717?style=for-the-badge&logo=Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Numpy-181717?style=for-the-badge&logo=Numpy" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge&logo=TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Keras-181717?style=for-the-badge&logo=Keras" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PyTorch-181717?style=for-the-badge&logo=PyTorch" />&nbsp;&nbsp;&nbsp;&nbsp;
