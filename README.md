@@ -57,12 +57,17 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 <br/>
-
 ### Statistical
 <img src="https://img.shields.io/badge/-Statistical-181717?style=for-the-badge&logo=statistical" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Frequencies and averages-181717?style=for-the-badge&logo=frequencies_and_averages" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Probability-181717?style=for-the-badge&logo=Probability" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Sampling-181717?style=for-the-badge&logo=Sampling" />&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/-Hypotheses-181717?style=for-the-badge&logo=hypotheses" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Correlations-181717?style=for-the-badge&logo=correlations" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Market basket analysis-181717?style=for-the-badge&logo=Market_basket_analysis" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Linear Regression-181717?style=for-the-badge&logo=Linear regression" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
+<br/>
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
