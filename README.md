@@ -3,30 +3,102 @@
 
 My name is Rafael Gallo, computer engineering student.
 
+<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
+<p align="middle">
+<a href="https://www.linkedin.com/in/rafael-gallo-986a73150/">
+<img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+<a href="mailto:rafaelhenriquegallo@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
+<img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
+</a>
+<a href="https://www.instagram.com/gallorafael_/">
+<img src="https://img.shields.io/badge/-Instagram-%230d8bf1?style=flat&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.origin.com/bra/pt-br/profile/achievements">
+<img src="https://img.shields.io/badge/-Origin-%23E4405F?style=flat&logo=Origin&logoColor=white">
+</a>
+</p>
+<div>
+<img align="right" alt="GIF" height="300px" src="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif"/>
+</div>
+
+<!-- <div>
+[<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
+</div> -->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-gallo-986a73150/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelhenriquegallo@gmail.com)](mailto:rafaelhenriquegallo@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gallorafael_/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelGallo)](https://github.com/RafaelGallo)
-[![Origin](https://img.shields.io/badge/-Origin-000?style=flat-square&logo=Origin&logoColor=Orange&link=https://www.origin.com/bra/pt-br/profile/achievements)](https://www.origin.com/bra/pt-br/profile/achievements)
-[![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
-👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
+<div>
+</a>
+</a>
+</div>
 
+<br />
+<br />
+<br />
 
-### My skills:<br/>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<div>
+</a>
+</div>
+
+<br />
+
+<div>
+<br />
+<br />
+<br />
+<br />
+<p align="center">
+<img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
+<img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
+</p>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R&logoColor=007afb" />
+  <br/>
+  <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+</p>
 
 
 💻 Machine learning: data mining, machine learning models - classification, statistical models, model validation, optimization of models through hyperparameters, optimization with random exploration, recommendation systems, supervised algorithms, unsupervised algorithms, natural language model, linear regression, logistic regression.
