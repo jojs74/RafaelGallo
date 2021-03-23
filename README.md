@@ -52,9 +52,9 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 <br/>
-
 ## Framework Machine learning and deep learning
 <img src="https://img.shields.io/badge/-Pandas-181717?style=for-the-badge&logo=Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Numpy-181717?style=for-the-badge&logo=Numpy" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge&logo=TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Keras-181717?style=for-the-badge&logo=Keras" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PyTorch-181717?style=for-the-badge&logo=PyTorch" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,8 +63,10 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-NLTK-181717?style=for-the-badge&logo=NLTK" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Matplotlib-181717?style=for-the-badge&logo=Matplotlib" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Seaborn-181717?style=for-the-badge&logo=Seaborn" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Numpy-181717?style=for-the-badge&logo=Numpy" />&nbsp;&nbsp;&nbsp;&nbsp;
-
+<br/>
+<br/>
+<br/>
+<br/>
 ## Machine learning
 <img src="https://img.shields.io/badge/-Machine learning-181717?style=for-the-badge&logo=Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Regression model-181717?style=for-the-badge&logo=Regression_model" />&nbsp;&nbsp;&nbsp;&nbsp;
