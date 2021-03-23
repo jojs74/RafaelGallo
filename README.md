@@ -62,7 +62,7 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 ### Deep learning
-<img src="https://img.shields.io/badge/-ANN Artificial neural network-181717?style=for-the-badge&logo=ANN_Artificial neural network" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-ANN Artificial neural network-181717?style=for-the-badge&logo=ANN_Artificial_neural_network" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CNN Convolutional-181717?style=for-the-badge&logo=ANN_Convolutional" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-RNN Recurrent-181717?style=for-the-badge&logo=ANN_Recurrent" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GANs Generative Adversarials-181717?style=for-the-badge&logo=ANN_Generative_Adversarials" />&nbsp;&nbsp;&nbsp;&nbsp;
