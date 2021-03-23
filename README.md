@@ -80,7 +80,7 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 <br/>
-<img src ="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif">
+<img src ="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif"/>
 <br/>
 <br/>
 <br/>
