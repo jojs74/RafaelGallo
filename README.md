@@ -37,7 +37,7 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 ### My skills<br/>
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=JavalogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=R&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=JavalogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
