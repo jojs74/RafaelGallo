@@ -65,7 +65,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-Time series-181717?style=for-the-badge&logo=Time_series" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
-<br/>
 ### Statistical
 <img src="https://img.shields.io/badge/-Statistical-181717?style=for-the-badge&logo=statistical" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Frequencies and averages-181717?style=for-the-badge&logo=frequencies_and_averages" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,7 +74,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-Correlations-181717?style=for-the-badge&logo=correlations" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Market basket analysis-181717?style=for-the-badge&logo=Market_basket_analysis" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Linear Regression-181717?style=for-the-badge&logo=Linear_regression" />&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
 <br/>
 <br/>
 ### Deep learning
