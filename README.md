@@ -45,6 +45,9 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Azure-181717?style=for-the-badge&logo=Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Azure Machine learning-181717?style=for-the-badge&logo=Azure_Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-IBM Clould-181717?style=for-the-badge&logo=IBM_Clould" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-IBM Watson-181717?style=for-the-badge&logo=IBM_Watson" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-IBM Watson Studio-181717?style=for-the-badge&logo=IBM_Watson_Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 <br/>
