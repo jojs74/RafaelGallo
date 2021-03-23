@@ -43,7 +43,7 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 
 ## Machine learning
 
-<img src="https://img.shields.io/badge/-M.L-E34F26?style=for-the-badge&logo=M.L&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-M.L-E34F26?style=for-the-badge&logo=M.L&logoColor=Green" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
