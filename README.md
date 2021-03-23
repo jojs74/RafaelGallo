@@ -49,7 +49,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <br/>
 <br/>
 <br/>
-
 ## Machine learning
 <img src="https://img.shields.io/badge/-Machine learning-181717?style=for-the-badge&logo=Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Regression model-181717?style=for-the-badge&logo=Regression_model" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,8 +72,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-Correlations-181717?style=for-the-badge&logo=correlations" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Market basket analysis-181717?style=for-the-badge&logo=Market_basket_analysis" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Linear Regression-181717?style=for-the-badge&logo=Linear_regression" />&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
