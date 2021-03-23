@@ -8,7 +8,7 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelhenriquegallo@gmail.com)](mailto:rafaelhenriquegallo@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gallorafael_/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelGallo)](https://github.com/RafaelGallo)
-[![Portfolio](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelGallo/Portfolio)](https://github.com/RafaelGallo/Portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Portfolio&logoColor=white&link=https://github.com/RafaelGallo/Portfolio)](https://github.com/RafaelGallo/Portfolio)
 [![Origin](https://img.shields.io/badge/-Origin-000?style=flat-square&logo=Origin&logoColor=Orange&link=https://www.origin.com/bra/pt-br/profile/achievements)](https://www.origin.com/bra/pt-br/profile/achievements)
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
