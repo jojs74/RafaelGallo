@@ -23,8 +23,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 💻 Statistic: frequencies and averages, probability, sampling, hypotheses, correlations, market basket analysis, linear regression.
 <br/>
 <br/>
-
-
 ### My skills<br/>
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,10 +38,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 <img src="https://img.shields.io/badge/-Azure-181717?style=for-the-badge&logo=Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
-
-## Machine learning
-
-<img src="https://img.shields.io/badge/-Machine-learning-black?style=for-the-badge&logo=Machine-learning" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
