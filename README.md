@@ -29,7 +29,6 @@ My name is Rafael Gallo, student of computer engineering
 <br/>
 <br/>
 <br/>
-<br/>Orange
 <br/>
 <br/>
 ### My skills
