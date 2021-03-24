@@ -1,5 +1,5 @@
 # Rafael Henrique Gallo
-My name is Rafael Gallo, student of computer engineering 
+My name is Rafael Gallo, student of computer engineering.
 
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 
