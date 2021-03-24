@@ -1,5 +1,8 @@
 # Rafael Henrique Gallo
-My name is Rafael Gallo, student of computer engineering I work with machine learning and data analysis.
+My name is Rafael Gallo, student of computer engineering 
+📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
+👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
+💻Work with machine learning engineering and data analysis.
 <br/>
 <br/>
 # My social networks
@@ -14,10 +17,6 @@ My name is Rafael Gallo, student of computer engineering I work with machine lea
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
 <br/>
-<br/>
-📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
-👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
-💻Work with machine learning engineering and data analysis.
 <br/>
 <br/>
 <br/>
