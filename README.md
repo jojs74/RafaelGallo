@@ -62,7 +62,7 @@ My name is Rafael Gallo, student of computer engineering.
 <img src="https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge&logo=TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Keras-181717?style=for-the-badge&logo=Keras" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PyTorch-181717?style=for-the-badge&logo=PyTorch" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-TensorFlow GPU-?style=for-the-badge&logo=TensorFlow_GPU" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-TensorFlow GPU-blue?style=for-the-badge&logo=TensorFlow_GPU" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Scikit Learn-181717?style=for-the-badge&logo=Scikit_Learn" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-NLTK-181717?style=for-the-badge&logo=NLTK" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Matplotlib-181717?style=for-the-badge&logo=Matplotlib" />&nbsp;&nbsp;&nbsp;&nbsp;
