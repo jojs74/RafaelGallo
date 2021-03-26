@@ -105,7 +105,3 @@ My name is Rafael Gallo, student of computer engineering.
 <img src="https://img.shields.io/badge/-ANN Supervised natural language process-181717?style=for-the-badge&logo=ANN_Supervised_natural_language_process" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-ANN Unsupervised natural language process-181717?style=for-the-badge&logo=ANN_Unsupervised_natural_language_process" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Autoencoders-181717?style=for-the-badge&logo=Autoencoders" />&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-<br/>
-<br/>
-<img src ="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403.gif"/>
