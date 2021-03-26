@@ -6,6 +6,9 @@ My name is Rafael Gallo, student of computer engineering.
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
 💻Work with machine learning engineering and data analysis.
+
+<br/>
+<br/>
 <br/>
 <br/>
 # My social networks
