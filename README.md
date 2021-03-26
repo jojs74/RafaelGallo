@@ -19,6 +19,8 @@ My name is Rafael Gallo, student of computer engineering.
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
 <br/>
+<br/>
+<br/>
 <img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
 <br/>
