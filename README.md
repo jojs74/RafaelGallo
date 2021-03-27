@@ -99,5 +99,5 @@ My name is Rafael Gallo, student of computer engineering.
 ### Deep learning
 <img src="https://img.shields.io/badge/-ANN Artificial neural network-181717?style=for-the-badge&logo=ANN_Artificial_neural_network" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CNN Convolutional-181717?style=for-the-badge&logo=ANN_Convolutional" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-CNN Computer vision-181717?style=for-the-badge&logo=Computer_Vision" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Computer vision-181717?style=for-the-badge&logo=Computer_Vision" />&nbsp;&nbsp;&nbsp;&nbsp;
 
