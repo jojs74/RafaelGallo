@@ -20,8 +20,10 @@ My name is Rafael Gallo, student of computer engineering.
 <br/>
 <br/>
 <br/>
-<img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <br/>
+<br/>
+<br/>
+<img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
 <br/>
 <br/>
