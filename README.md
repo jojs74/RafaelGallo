@@ -1,12 +1,11 @@
 # Rafael Henrique Gallo
 My name is Rafael Gallo, student of computer engineering.
-
+<br/>
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
 💻Work with machine learning engineering and data analysis.
-<br/>
 <br/>
 <br/>
 <br/>
