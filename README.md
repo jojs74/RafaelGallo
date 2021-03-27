@@ -1,14 +1,12 @@
 # Rafael Henrique Gallo
 My name is Rafael Gallo, student of computer engineering.
-<br/>
+
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
 💻Work with machine learning engineering and data analysis.
-<br/>
-<br/>
-<br/>
+
 # My social networks
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelhenriquegallo@gmail.com)](mailto:rafaelhenriquegallo@gmail.com)
@@ -19,9 +17,6 @@ My name is Rafael Gallo, student of computer engineering.
 [![Article](https://img.shields.io/badge/-Article-000?style=flat-square&logo=Portfolio&logoColor=grenn&link=)]()
 [![Origin](https://img.shields.io/badge/-Origin-000?style=flat-square&logo=Origin&logoColor=Orange&link=https://www.origin.com/bra/pt-br/profile/achievements)](https://www.origin.com/bra/pt-br/profile/achievements)
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
