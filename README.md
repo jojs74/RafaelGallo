@@ -51,6 +51,7 @@ My name is Rafael Gallo, student of computer engineering.
 <img src="https://img.shields.io/badge/-IBM Clould-181717?style=for-the-badge&logo=IBM_Clould" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-IBM Watson-181717?style=for-the-badge&logo=IBM_Watson" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-IBM Watson Studio-181717?style=for-the-badge&logo=IBM_Watson_Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 <br/>
