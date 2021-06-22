@@ -75,7 +75,6 @@ My name is Rafael Gallo, student of computer engineering.
 <img src="https://img.shields.io/badge/-Matplotlib-181717?style=for-the-badge&logo=Matplotlib" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Seaborn-181717?style=for-the-badge&logo=Seaborn" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-181717?style=for-the-badge&logo=Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Pandas profiling-181717?style=for-the-badge&logo=Pandas profiling" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-ggplot2-181717?style=for-the-badge&logo=ggplot2" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Ploty-181717?style=for-the-badge&logo=Ploty" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-SciPy -181717?style=for-the-badge&logo=SciPy" />&nbsp;&nbsp;&nbsp;&nbsp;
