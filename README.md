@@ -5,7 +5,7 @@ My name is Rafael Gallo, student of computer engineering.
 
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
-💻Work with machine learning engineering and data analysis.
+💻I'm an intern in data Science.
 
 # My social networks
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-gallo-986a73150/)
@@ -18,10 +18,6 @@ My name is Rafael Gallo, student of computer engineering.
 [![Origin](https://img.shields.io/badge/-Origin-000?style=flat-square&logo=Origin&logoColor=Orange&link=https://www.origin.com/bra/pt-br/profile/achievements)](https://www.origin.com/bra/pt-br/profile/achievements)
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
-<br/>
-<br/>
-<img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=RafaelGallo&theme=onedark" alt="RafaelGallo"/> 
-<img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGallo&hide=css&theme=nord" alt="RafaelGallo" />
 <br/>
 <br/>
 <br/>
