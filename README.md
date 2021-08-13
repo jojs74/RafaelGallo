@@ -12,7 +12,6 @@ My name is Rafael Gallo, student of computer engineering.
 # Skills
 * 💻: python, R, SQL Server, MongoDB
 * 📁: Statistical Analysis, Machine Learning
-* 🤖: Deep learning - Neural network, perceptron, multilayer perceptron, convolutional neural network.
 * 📊: Data analytics 
 * 📙: Calculation 1, Linear algebra
 
