@@ -46,7 +46,6 @@ My name is Rafael Gallo, student of computer engineering.
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgallo)](https://github.com/rafaelgallo/github-readme-stats)
-<br/>
 [![Rafael Henrique Gallo Github Stats](https://github-readme-stats.vercel.app/api?username=RafaelGallo)](https://github.com/rafaelgallo/github-readme-stats)
 <br/>
 <br/>
