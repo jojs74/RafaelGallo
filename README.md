@@ -5,7 +5,7 @@ My name is Rafael Gallo, student of computer engineering.
 
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
-💻I'm an intern in data Science.
+💻I'm an intern in data Science at Gentrop São Paulo Brazil.
 <br>
 <br>
 # My social networks
