@@ -41,7 +41,7 @@ My name is Rafael Gallo, student of computer engineering.
 ![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=flat-square&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?style=flat-square&logo=Git&logoColor=white)
 <img src="https://img.shields.io/badge/IBM-IBM Cloud-blue?style=for-the-badge&logo=IBM-CloudlogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=AzurelogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/IBM-Watson-blue?style=for-the-badge&logo=IBM-WatsonlogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=AzurelogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google Cloud-blue?style=for-the-badge&logo=Google-Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/BigQuery-blue?style=for-the-badge&logo=Big-Query&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
