@@ -28,7 +28,7 @@ My name is Rafael Gallo, student of computer engineering.
 ![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-1E90FF?style=flat-square&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?style=flat-square&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/-C-1E90FF?style=flat-square&logo=google&logoColor=white)
+![C](https://img.shields.io/badge/-C-1E90FF?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=google&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-1E90FF?style=flat-square&logo=google&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/-HTML5-1E90FF?style=flat-square&logo=google&logoColor=orange)
