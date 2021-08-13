@@ -20,7 +20,7 @@ My name is Rafael Gallo, student of computer engineering.
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
 <br/>
-### My skills
+# My skills
 ![Windows](https://img.shields.io/badge/-Windows-1E90FF?style=flat-square&logo=windows&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat-square&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-1E90FF?style=flat-square&logo=microsoft&logoColor=Red)
