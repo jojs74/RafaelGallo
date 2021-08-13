@@ -20,6 +20,9 @@ My name is Rafael Gallo, student of computer engineering.
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natmurad)](https://github.com/natmurad/github-readme-stats)
+<br/>
+<br/>
 ### My skills
 ![Python](https://img.shields.io/badge/-Python-32CD32?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-0000FF?style=flat-square&logo=r&logoColor=white)
