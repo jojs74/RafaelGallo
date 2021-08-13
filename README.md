@@ -40,6 +40,7 @@ My name is Rafael Gallo, student of computer engineering.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1E90FF?style=flat-square&logo=Mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=flat-square&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?style=flat-square&logo=Git&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-1E90FF?style=flat-square&logo=MLflow&logoColor=white)
 
 <img src="https://img.shields.io/badge/IBM-IBM Cloud-blue?style=for-the-badge&logo=IBM-CloudlogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/IBM-Watson-blue?style=for-the-badge&logo=IBM-WatsonlogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
