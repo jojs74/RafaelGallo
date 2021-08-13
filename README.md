@@ -29,23 +29,20 @@ My name is Rafael Gallo, student of computer engineering.
 ![Docker](https://img.shields.io/badge/-Docker-00BFFF?style=flat-square&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-square&logo=microsoft&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-1E90FF?style=flat-square&logo=google&logoColor=white)
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-C++-green?style=for-the-badge&logo" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=JavalogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-SQL-grenn?style=for-the-badge&logo=JavalogoColor=grenn" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-SQLite-181717?style=for-the-badge&logo=SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-SQL_Server-blue?style=for-the-badge&logo=SQL_ServerlogoColor=blue" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Azure-blue?style=for-the-badge&logo=Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Azure Machine learning-blue?style=for-the-badge&logo=Azure_Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-IBM Clould-181717?style=for-the-badge&logo=IBM_Clould" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-IBM Watson-181717?style=for-the-badge&logo=IBM_Watson" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-IBM Watson Studio-181717?style=for-the-badge&logo=IBM_Watson_Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-c-1E90FF?style=flat-square&logo=google&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-1E90FF?style=flat-square&logo=google&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-1E90FF?style=flat-square&logo=google&logoColor=orange)
+![HTML5](https://img.shields.io/badge/-HTML-1E90FF?style=flat-square&logo=google&logoColor=orange)
+![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=flat-square&logo=google&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-DC143C?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-DC143C?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-DC143C?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-DC143C?style=flat-square&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-DC143C?style=flat-square&logo=mysql&logoColor=white)
+![Azure Machine learning](https://img.shields.io/badge/-Azure Machine learning-DC143C?style=flat-square&logo=mysql&logoColor=white)
+![IBM Clould](https://img.shields.io/badge/-IBM Clould-DC143C?style=flat-square&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google Clould-DC143C?style=flat-square&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-DC143C?style=flat-square&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual-Studio-blue?style=for-the-badge&logo=Visual-Studio&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
