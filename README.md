@@ -23,7 +23,7 @@ My name is Rafael Gallo, student of computer engineering.
 ### My skills
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-00BFFF?style=flat-square&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-1E90FF?style=flat-square&logo=microsoft&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-1E90FF?style=flat-square&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-32CD32?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-0000FF?style=flat-square&logo=r&logoColor=white)
