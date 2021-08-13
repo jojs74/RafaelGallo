@@ -20,10 +20,6 @@ My name is Rafael Gallo, student of computer engineering.
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgallo)](https://github.com/rafaelgallo/github-readme-stats)
-<br/>
-[![Rafael Henrique Gallo Github Stats](https://github-readme-stats.vercel.app/api?username=RafaelGallo)](https://github.com/rafaelgallo/github-readme-stats)
-<br/>
 <br/>
 ### My skills
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
@@ -106,3 +102,6 @@ My name is Rafael Gallo, student of computer engineering.
 <img src="https://img.shields.io/badge/-CNN Convolutional-181717?style=for-the-badge&logo=ANN_Convolutional" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Computer vision-181717?style=for-the-badge&logo=Computer_Vision" />&nbsp;&nbsp;&nbsp;&nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgallo)](https://github.com/rafaelgallo/github-readme-stats)
+<br/>
+[![Rafael Henrique Gallo Github Stats](https://github-readme-stats.vercel.app/api?username=RafaelGallo)](https://github.com/rafaelgallo/github-readme-stats)
