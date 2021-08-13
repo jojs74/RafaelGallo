@@ -32,8 +32,8 @@ My name is Rafael Gallo, student of computer engineering.
 ![Docker](https://img.shields.io/badge/-Docker-00BFFF?style=flat-square&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-square&logo=microsoft&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-1E90FF?style=flat-square&logo=google&logoColor=white)
-![C](https://img.shields.io/badge/-c-1E90FF?style=flat-square&logo=google&logoColor=white)
-![C++](https://img.shields.io/badge/-c++-1E90FF?style=flat-square&logo=google&logoColor=white)
+![C](https://img.shields.io/badge/-C-1E90FF?style=flat-square&logo=google&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=google&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-1E90FF?style=flat-square&logo=google&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/-HTML-1E90FF?style=flat-square&logo=google&logoColor=orange)
 ![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=flat-square&logo=google&logoColor=white)
@@ -42,6 +42,7 @@ My name is Rafael Gallo, student of computer engineering.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-DC143C?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Google-Cloud-blue?style=for-the-badge&logo=Google-Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual-Studio-blue?style=for-the-badge&logo=Visual-Studio&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
