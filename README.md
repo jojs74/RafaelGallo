@@ -55,6 +55,8 @@ My name is Rafael Gallo, student of computer engineering.
 <img src="https://img.shields.io/badge/Visual-Studio-blue?style=for-the-badge&logo=Visual-Studio&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgallo)](https://github.com/rafaelgallo/github-readme-stats)
 <br/>
 [![Rafael Henrique Gallo Github Stats](https://github-readme-stats.vercel.app/api?username=RafaelGallo)](https://github.com/rafaelgallo/github-readme-stats)
