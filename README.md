@@ -54,6 +54,7 @@ My name is Rafael Gallo, student of computer engineering.
 <br/>
 <br/>
 ## Framework Machine learning and deep learning
+<img src="https://img.shields.io/badge/-Cuda-black?style=for-the-badge&logo=Cuda" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge&logo=TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Keras-181717?style=for-the-badge&logo=Keras" />&nbsp;&nbsp;&nbsp;&nbsp;
