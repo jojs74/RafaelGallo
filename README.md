@@ -45,9 +45,9 @@ My name is Rafael Gallo, student of computer engineering.
 <img src="https://img.shields.io/badge/IBM-Watson-blue?style=for-the-badge&logo=IBM-WatsonlogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=AzurelogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Azure-Machine-learningblue?style=for-the-badge&logo=Azure-Machine-learninglogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google-Google Cloud-blue?style=for-the-badge&logo=Google-Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google-Google-blue?style=for-the-badge&logo=Google-Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google-Cloud BigQuery-blue?style=for-the-badge&logo=Big-Query&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Googel-Cloud Datalab-blue?style=for-the-badge&logo=Data-lab&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google-Cloud Datalab-blue?style=for-the-badge&logo=Data-lab&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual-Studio-blue?style=for-the-badge&logo=Visual-Studio&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
