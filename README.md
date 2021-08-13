@@ -35,7 +35,7 @@ My name is Rafael Gallo, student of computer engineering.
 ![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=flat-square&logo=CSS&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-1E90FF?style=flat-square&logo=SQLite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL Server-1E90FF?style=flat-square&logo=SQLSERVER&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQLServer-1E90FF?style=flat-square&logo=SQLSERVER&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1E90FF?style=flat-square&logo=Mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=flat-square&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?style=flat-square&logo=Git&logoColor=white)
