@@ -39,11 +39,6 @@ My name is Rafael Gallo, student of computer engineering.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-DC143C?style=flat-square&logo=mysql&logoColor=white)
-![Azure Machine learning](https://img.shields.io/badge/-Azure Machine learning-DC143C?style=flat-square&logo=mysql&logoColor=white)
-![IBM Clould](https://img.shields.io/badge/-IBM Clould-DC143C?style=flat-square&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google Clould-DC143C?style=flat-square&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-DC143C?style=flat-square&logo=mysql&logoColor=white)
-
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual-Studio-blue?style=for-the-badge&logo=Visual-Studio&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
