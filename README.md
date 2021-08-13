@@ -34,14 +34,13 @@ My name is Rafael Gallo, student of computer engineering.
 ![C](https://img.shields.io/badge/-C-1E90FF?style=flat-square&logo=google&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=google&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-1E90FF?style=flat-square&logo=google&logoColor=orange)
-![HTML5](https://img.shields.io/badge/-HTML-1E90FF?style=flat-square&logo=google&logoColor=orange)
+![HTML5](https://img.shields.io/badge/-HTML5-1E90FF?style=flat-square&logo=google&logoColor=orange)
 ![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=flat-square&logo=google&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-DC143C?style=flat-square&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=AzurelogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure-Machine-learning-blue?style=for-the-badge&logo=Azure-Machine-learning&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google-Cloud-blue?style=for-the-badge&logo=Google-Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Big-Query-blue?style=for-the-badge&logo=Big-Query&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Data-lab-blue?style=for-the-badge&logo=Data-lab&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
