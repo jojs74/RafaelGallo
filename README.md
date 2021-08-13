@@ -24,14 +24,13 @@ My name is Rafael Gallo, student of computer engineering.
 <br/>
 <br/>
 ### My skills
-![Python](https://img.shields.io/badge/-Python-32CD32?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-0000FF?style=flat-square&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-B0C4DE?style=flat-square&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FF69B4?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-00BFFF?style=flat-square&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-square&logo=microsoft&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-1E90FF?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-32CD32?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-0000FF?style=flat-square&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-B0C4DE?style=flat-square&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/-C-1E90FF?style=flat-square&logo=google&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=google&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-1E90FF?style=flat-square&logo=google&logoColor=orange)
@@ -40,7 +39,6 @@ My name is Rafael Gallo, student of computer engineering.
 ![SQL](https://img.shields.io/badge/-SQL-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-DC143C?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-DC143C?style=flat-square&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/Google-Cloud-blue?style=for-the-badge&logo=Google-Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Big-Query-blue?style=for-the-badge&logo=Big-Query&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
