@@ -16,7 +16,8 @@ My name is Rafael Gallo, student of computer engineering.
 * 🤖: Deep learning - Neural network, perceptron, multilayer perceptron, convolutional neural network.
 * 📊: Data analytics 
 * 📙: Calculation 1, Linear algebra
-
+<br>
+<br>
 # Get in Touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelhenriquegallo@gmail.com)](mailto:rafaelhenriquegallo@gmail.com)
