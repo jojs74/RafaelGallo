@@ -1,4 +1,6 @@
 # Rafael Henrique Gallo
+
+# About me
 My name is Rafael Gallo, student of computer engineering.
 
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
@@ -6,6 +8,15 @@ My name is Rafael Gallo, student of computer engineering.
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
 💻I'm an intern in data Science at Gentrop São Paulo Brazil.
+
+# Skills
+
+* 💻: python, R, SQL Server, MongoDB
+* 📁: Statistical Analysis, Machine Learning
+* 🤖: Deep learning - Neural network, perceptron, multilayer perceptron, convolutional neural network.
+* 📊: Data analytics 
+* 📙: Calculation 1, Linear algebra
+
 <br>
 <br>
 # My social networks
