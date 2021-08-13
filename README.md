@@ -20,7 +20,6 @@ My name is Rafael Gallo, student of computer engineering.
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 <br/>
 <br/>
-<br/>
 ### My skills
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-00BFFF?style=flat-square&logo=docker&logoColor=white)
@@ -45,6 +44,10 @@ My name is Rafael Gallo, student of computer engineering.
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual-Studio-blue?style=for-the-badge&logo=Visual-Studio&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgallo)](https://github.com/rafaelgallo/github-readme-stats)
+<br/>
+[![Rafael Henrique Gallo Github Stats](https://github-readme-stats.vercel.app/api?username=RafaelGallo)](https://github.com/rafaelgallo/github-readme-stats)
 <br/>
 <br/>
 ## Framework Machine learning and deep learning
