@@ -10,10 +10,12 @@ My name is Rafael Gallo, student of computer engineering.
 💻I'm an intern in data Science at Gentrop São Paulo Brazil.
 
 # Skills
-* 💻: Python, R, SQL Server, MongoDB, SQLite
-* 📁: Statistical Analysis, Machine Learning
+* 💻: Python, R, SQL Server, MongoDB, SQLite, HTML, CSS, JS, Java
+* ☁️: Google cloud, BigQuery, Datalab, Azure, IBM Cloud
+* 📁: Data analysis, Machine Learning
 * 📊: Data analytics 
 * 📙: Calculation 1, Linear algebra
+* 📙: Statistical
 
 # Get in Touch
 
@@ -42,6 +44,7 @@ My name is Rafael Gallo, student of computer engineering.
 ![Java](https://img.shields.io/badge/-Java-1E90FF?style=flat-square&logo=Java&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/-HTML5-1E90FF?style=flat-square&logo=HTML5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=flat-square&logo=CSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1E90FF?style=flat-square&logo=JavaScript&logoColor=orange)
 ![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-1E90FF?style=flat-square&logo=SQLite&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-1E90FF?style=flat-square&logo=SQLSERVER&logoColor=white)
