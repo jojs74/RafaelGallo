@@ -28,8 +28,6 @@ My name is Rafael Gallo, student of computer engineering.
 * 📙: Calculation 1, Linear algebra
 * 📙: Statistical
 
-<br/>
-<br/>
 # My skills
 ![Windows](https://img.shields.io/badge/-Windows-1E90FF?style=flat-square&logo=windows&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat-square&logo=docker&logoColor=white)
