@@ -1,7 +1,5 @@
 # Rafael Henrique Gallo
 
-![RafaelGallo](https://komarev.com/ghpvc/?username=RafaelGallo)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelhenriquegallo@gmail.com)](mailto:rafaelhenriquegallo@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gallorafaelpy/)
@@ -13,13 +11,17 @@
 [![Origin](https://img.shields.io/badge/-Origin-000?style=flat-square&logo=Origin&logoColor=Orange&link=https://www.origin.com/bra/pt-br/profile/achievements)](https://www.origin.com/bra/pt-br/profile/achievements)
 [![Steam](https://img.shields.io/badge/-Steam-000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198838228349/)](https://steamcommunity.com/profiles/76561198838228349/)
 
+![RafaelGallo](https://komarev.com/ghpvc/?username=RafaelGallo)
+
 My name is Rafael Gallo, student of computer engineering.
 
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
-💻I'm an intern in data Science at Gentrop São Paulo Brazil.
+👨‍💻 All of my projects are available [here](https://github.com/rafaelgallo)!
+
+💻I'm an intern in data Science at Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com)** :yellow_heart:
 
 # Skills
 * 💻: Python, R, HTML, CSS, JavaScript, Java
