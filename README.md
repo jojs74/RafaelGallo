@@ -19,9 +19,9 @@ My name is Rafael Gallo, student of computer engineering.
 
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
-👨‍💻 All of my projects are available [here](https://github.com/rafaelgallo)!
+👨‍💻 My portfolio in [here](https://github.com/RafaelGallo/Portfolio)!
 
-💻I'm an intern in data Science at Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com)** :yellow_heart:
+💻I'm an intern in data Science at Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com)** 🏢t:
 
 # Skills
 * 💻: Python, R, HTML, CSS, JavaScript, Java
