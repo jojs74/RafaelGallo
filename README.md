@@ -54,6 +54,8 @@ My name is Rafael Gallo, student of computer engineering.
 ![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=flat-square&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?style=flat-square&logo=Git&logoColor=white)
 <br/>
+<br/>
+<br/>
 <img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge&logo=MLflow&logoColor=blue" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google-Colab-blue?style=for-the-badge&logo=Google_Colab&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google-Cloud-blue?style=for-the-badge&logo=Google_Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
