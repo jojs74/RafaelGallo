@@ -56,7 +56,7 @@ My name is Rafael Gallo, student of computer engineering.
 ![MLflow](https://img.shields.io/badge/-MLflow-1E90FF?style=flat-square&logo=MLflow&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-1E90FF?style=flat-square&logo=google&logoColor=white)
 
-<img src="https://img.shields.io/badge/Google-Google-blue?style=for-the-badge&logo=Google_Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google-Cloud-blue?style=for-the-badge&logo=Google_Cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/BigQuery-blue?style=for-the-badge&logo=Big-Query&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Datalab-blue?style=for-the-badge&logo=Data-lab&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/IBM-IBM Cloud-blue?style=for-the-badge&logo=IBM-CloudlogoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
