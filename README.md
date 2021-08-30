@@ -24,12 +24,13 @@ My name is Rafael Gallo, student of computer engineering.
 💻I'm an intern in data Science at Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com)** 
 
 # Skills
-* 💻 Python, R, HTML, CSS, JavaScript, Java
+* 💻: Python, R, HTML, CSS, JavaScript, Java
 * 🖥: SQL, NoSQL, SQL Server, MongoDB, SQLite
 * ☁️: Google cloud, BigQuery, Datalab, Azure, IBM Cloud
 * 📁: Data analysis, Machine Learning
 * 📊: Data analytics 
-* 📙: Calculation 1, Linear algebra
+* 📙: Calculation 1
+* 📙: Linear algebra
 * 📙: Statistical
 
 # My skills
