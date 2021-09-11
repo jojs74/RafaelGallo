@@ -21,7 +21,7 @@ My name is Rafael Gallo, student of computer engineering.
 
 👨‍💻 My portfolio machine learning, depp learning in [here](https://github.com/RafaelGallo/Portfolio)
 
-💻I'm an intern in data Science at Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com)** 
+💻I'm an intern in data Science at Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com/en/home)** 
 
 💻My site. **[Site](https://rafaelgallo.github.io/webportfolio/)**
 
