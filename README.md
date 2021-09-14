@@ -23,7 +23,7 @@ My name is Rafael Gallo, student of computer engineering.
 
 💻I'm an intern in data Science at Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com/en/home)** 
 
-💻My site. **[Site](https://rafaelgallo.github.io/webportfolio/)**
+💻My site **[Site](https://rafaelgallo.github.io/webportfolio/)**
 
 
 
