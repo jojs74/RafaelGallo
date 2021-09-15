@@ -39,13 +39,15 @@ My name is Rafael Gallo, student of computer engineering.
 * 📙: Statistical
 
 # My skills
-![Windows](https://img.shields.io/badge/-Windows-1E90FF?style=flat-square&logo=windows&logoColor=blue)
-![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat-square&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-1E90FF?style=flat-square&logo=microsoft&logoColor=Red)
-![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-1E90FF?style=flat-square&logo=google&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-1E90FF?style=flat-square&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-1E90FF?style=flat-square&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft&logoColor=yellow)
+![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-black?style=flat-square&logo=google)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-black?style=flat-square&logo=google-cloud)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=darkblue)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![C](https://img.shields.io/badge/-C-1E90FF?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=C++&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-1E90FF?style=flat-square&logo=Java&logoColor=orange)
