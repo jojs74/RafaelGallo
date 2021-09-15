@@ -15,13 +15,14 @@
 
 My name is Rafael Gallo, student of computer engineering.
 
+
 📚 Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
 
 👨🏻‍💻 Data Scientist in Training, python, machine learning, depp learning.
 
 👨‍💻 My portfolio machine learning, depp learning in [here](https://github.com/RafaelGallo/Portfolio)
 
-💻I'm an intern in data Science at Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com/en/home)** 
+💻I'm a Gentrooper data science intern Gentrop São Paulo Brazil. **[Gentrop](https://www.gentrop.com/en/home)** 
 
 💻My site **[Site](https://rafaelgallo.github.io/webportfolio/)**
 
