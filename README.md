@@ -26,7 +26,7 @@ My name is Rafael Gallo, student of computer engineering.
 
 💻My site **[Site](https://rafaelgallo.github.io/webportfolio/)**
 
-💻Rpubs - Deploy models machine learning e deep learning **[Rpubs](https://rpubs.com/Gallosp02)**
+💻Rpubs - Deploy models machine learning e deep learning R **[Rpubs](https://rpubs.com/Gallosp02)**
 
 
 # Skills
