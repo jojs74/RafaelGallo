@@ -49,6 +49,8 @@ My name is Rafael Gallo, student of computer engineering.
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft&logoColor=yellow)
 ![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-black?style=flat-square&logo=google)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-black?style=flat-square&logo=google-cloud)
+![Google DataLab](https://img.shields.io/badge/DataLab-black?style=flat-square&logo=google-DataLab)
+![Jupyter notebook](https://img.shields.io/badge/Jupyternotebook-black?style=flat-square&logo=Jupyternotebook)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=darkblue)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
