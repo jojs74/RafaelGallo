@@ -27,8 +27,8 @@ My name is Rafael Gallo, student of computer engineering.
 💻My site **[Site](https://rafaelgallo.github.io/webportfolio/)**
 
 💻Rpubs - Deploy models machine learning e deep learning **[Rpubs](https://rpubs.com/Gallosp02)**
-<br/>
-<br/>
+
+
 # Skills
 * 💻: Python, R, HTML, CSS, JavaScript, Java
 * 🖥: SQL, NoSQL, SQL Server, MongoDB, SQLite
@@ -38,8 +38,8 @@ My name is Rafael Gallo, student of computer engineering.
 * 📙: Calculation 1
 * 📙: Linear algebra
 * 📙: Statistical
-<br/>
-<br/>
+
+
 # My skills
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
