@@ -62,8 +62,10 @@ My name is Rafael Gallo, student of computer engineering.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 <br/>
 <br/>
-## Deploy models machine learning e deep learning 
+
+##: Deploy models machine learning e deep learning - Mais sobre mim
 * [**Rpubs**]()
+
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge&logo=MLflow&logoColor=blue" />&nbsp;&nbsp;&nbsp;&nbsp;
