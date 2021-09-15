@@ -64,7 +64,7 @@ My name is Rafael Gallo, student of computer engineering.
 <br/>
 
 ##: Deploy models machine learning e deep learning - Mais sobre mim
-* [**Rpubs**]()
+![**Rpubs**](https://rpubs.com/Gallosp02)
 
 <br/>
 <br/>
