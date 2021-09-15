@@ -59,7 +59,7 @@ My name is Rafael Gallo, student of computer engineering.
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
-![SQLServer](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQLServer)
+![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=SQLServer)
 ![ETL](https://img.shields.io/badge/-ETL-black?style=flat-square&logo=ETL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 <br/>
