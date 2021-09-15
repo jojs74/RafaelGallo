@@ -26,6 +26,7 @@ My name is Rafael Gallo, student of computer engineering.
 
 💻My site **[Site](https://rafaelgallo.github.io/webportfolio/)**
 
+💻Rpubs - Deploy models machine learning e deep learning **[Rpubs](https://rpubs.com/Gallosp02)
 
 
 # Skills
@@ -60,12 +61,6 @@ My name is Rafael Gallo, student of computer engineering.
 ![SQLServer](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQLServer)
 ![ETL](https://img.shields.io/badge/-ETL-black?style=flat-square&logo=ETL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
-<br/>
-<br/>
-<br/>
-# Deploy models machine learning e deep learning - More about me
-* 💻: [![Rpubs](https://img.shields.io/badge/-Rpubs-000?style=flat-square&logo=Rpubs&logoColor=white&link=https://rpubs.com/Gallosp02)](https://rpubs.com/Gallosp02)
-<br/>
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge&logo=MLflow&logoColor=blue" />&nbsp;&nbsp;&nbsp;&nbsp;
