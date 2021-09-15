@@ -56,11 +56,14 @@ My name is Rafael Gallo, student of computer engineering.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
-![SQLite](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQLite)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
 ![SQLServer](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQLServer)
 ![ETL](https://img.shields.io/badge/-ETL-black?style=flat-square&logo=ETL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 <br/>
+<br/>
+# Deploy models machine learning e deep learning 
+* [**Rpubs**]()
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge&logo=MLflow&logoColor=blue" />&nbsp;&nbsp;&nbsp;&nbsp;
