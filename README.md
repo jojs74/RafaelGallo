@@ -34,7 +34,7 @@ My name is Rafael Gallo, student of computer engineering.
 * 🖥: SQL, NoSQL, SQL Server, MongoDB, SQLite
 * ☁️: Google cloud, BigQuery, Datalab, Azure, IBM Cloud
 * 📁: Data analysis, Machine Learning
-* 📊: Data analytics 
+* 📊: Big data analytics 
 * 📙: Calculation 1
 * 📙: Linear algebra
 * 📙: Statistical
